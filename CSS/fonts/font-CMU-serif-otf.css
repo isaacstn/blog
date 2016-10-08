@@ -1,0 +1,20 @@
+@font-face {
+	font-family: 'CMU serif';
+	src: url(https://dl.dropboxusercontent.com/u/23081839/Web/fonts/CMU%20Serif/cmunrm.otf);
+}
+@font-face {
+	font-family: 'CMU serif';
+	src: url(https://dl.dropboxusercontent.com/u/23081839/Web/fonts/CMU%20Serif/cmunti.otf);
+	font-style: italic;
+}
+@font-face {
+	font-family: 'CMU serif';
+	src: url(https://dl.dropboxusercontent.com/u/23081839/Web/fonts/CMU%20Serif/cmunbx.otf);
+	font-weight: bold;
+}
+@font-face {
+	font-family: 'CMU serif';
+	src: url(https://dl.dropboxusercontent.com/u/23081839/Web/fonts/CMU%20Serif/cmunbi.otf);
+	font-style: italic;
+	font-weight: bold;
+}

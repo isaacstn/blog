@@ -1,0 +1,24 @@
+@font-face {
+	font-family: 'STIXGeneral';
+	src: url(https://googledrive.com/host/0B02jISTg_r5Uel9OREx4RkZjc2M) format('truetype');
+}
+/* STIXGeneral.ttf */
+@font-face {
+	font-family: 'STIXGeneral';
+	src: url(https://googledrive.com/host/0B02jISTg_r5UM2ZBd2VPUHRmc2M) format('truetype');
+	font-style: italic;
+}
+/* STIXGeneralItalic.ttf */
+@font-face {
+	font-family: 'STIXGeneral';
+	src: url(https://googledrive.com/host/0B02jISTg_r5UdmhFajh3Z2M2dkk) format('truetype');
+	font-weight: bold;
+}
+/* STIXGeneralBol.ttf */
+@font-face {
+	font-family: 'STIXGeneral';
+	src: url(https://googledrive.com/host/0B02jISTg_r5Uakk3OHlMMWM3UFE) format('truetype');
+	font-style: italic;
+	font-weight: bold;
+}
+/* STIXGeneralBolIta.ttf */

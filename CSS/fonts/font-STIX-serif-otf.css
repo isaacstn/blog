@@ -1,0 +1,20 @@
+@font-face {
+	font-family: STIXGeneral;
+	src: url(https://dl.dropboxusercontent.com/u/23081839/Web/fonts/STIX/STIXGeneral.otf);
+}
+@font-face {
+	font-family: STIXGeneral;
+	src: url(https://dl.dropboxusercontent.com/u/23081839/Web/fonts/STIX/STIXGeneralItalic.otf);
+	font-style: italic;
+}
+@font-face {
+	font-family: STIXGeneral;
+	src: url(https://dl.dropboxusercontent.com/u/23081839/Web/fonts/STIX/STIXGeneralBol.otf);
+	font-weight: bold;
+}
+@font-face {
+	font-family: STIXGeneral;
+	src: url(https://dl.dropboxusercontent.com/u/23081839/Web/fonts/STIX/STIXGeneralBolIta.otf);
+	font-style: italic;
+	font-weight: bold;
+}

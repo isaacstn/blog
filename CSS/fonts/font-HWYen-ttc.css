@@ -1,0 +1,10 @@
+@font-face {
+	font-family: 'HanWangYenLight';
+	src:local('王漢宗細圓體繁'),
+		url(https://googledrive.com/host/0B02jISTg_r5UU2Jua2s3dGd6Y1E);
+}
+@font-face {
+	font-family: 'HanWangYenHeavy';
+	src:local('王漢宗特圓體繁'),
+		url(https://googledrive.com/host/0B02jISTg_r5UNHFET2xtWnRObGM);
+}

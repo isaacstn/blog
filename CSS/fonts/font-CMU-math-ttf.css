@@ -1,0 +1,28 @@
+@font-face {
+	font-family: 'CMU math';
+	unicode-range:U+21-3B, U+3F-7E, U+C0-2AF, U+370-47F;
+	src: url(https://googledrive.com/host/0B02jISTg_r5UbWZKTUFoVHBkZVE) format('truetype');
+}
+/* cmunrm.ttf */
+@font-face {
+	font-family: 'CMU math';
+	unicode-range:U+21-3B, U+3F-7E, U+C0-2AF, U+370-47F;
+	src: url(https://googledrive.com/host/0B02jISTg_r5USTd3a1pWYkFhUVE) format('truetype');
+	font-style: italic;
+}
+/* cmunti.ttf */
+@font-face {
+	font-family: 'CMU math';
+	unicode-range:U+21-3B, U+3F-7E, U+C0-2AF, U+370-47F;
+	src: url(https://googledrive.com/host/0B02jISTg_r5UWVZMcEU5bVlkbHc) format('truetype');
+	font-weight: bold;
+}
+/* cmunbx.ttf */
+@font-face {
+	font-family: 'CMU math';
+	unicode-range:U+21-3B, U+3F-7E, U+C0-2AF, U+370-47F;
+	src: url(https://googledrive.com/host/0B02jISTg_r5UYS13aGZ5Znk0Mnc) format('truetype');
+	font-style: italic;
+	font-weight: bold;
+}
+/* cmunbi.ttf */

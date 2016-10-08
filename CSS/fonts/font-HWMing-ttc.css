@@ -1,0 +1,20 @@
+@font-face {
+	font-family: 'HanWangMingLight';
+	src:local('王宗漢細明體繁'),
+		url(https://googledrive.com/host/0B02jISTg_r5UNnFaSU8yZ3dBdjg);
+}
+@font-face {
+	font-family: 'HanWangMingBold';
+	src:local('王宗漢粗明體繁'),
+		url(https://googledrive.com/host/0B02jISTg_r5USmFUQTNOMGdjdDA);
+}
+@font-face {
+	font-family: 'HanWangMingHeavy';
+	src:local('王宗漢特明體繁'),
+		url(https://googledrive.com/host/0B02jISTg_r5UQW4xdWtVdjhMSWc);
+}
+@font-face {
+	font-family: 'HanWangMingBlack';
+	src:local('王宗漢超明體繁'),
+		url(https://googledrive.com/host/0B02jISTg_r5UNWJXY0lPd3VWWDQ);
+}
